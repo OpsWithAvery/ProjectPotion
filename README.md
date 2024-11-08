@@ -2,7 +2,7 @@
 A curated collection of my work in project management and operations, where strategy meets creativity. Explore the “potion” behind seamless operations, efficient project execution, and impactful results.
 # Welcome to ProjectPotion
 
-Hello! I’m Adrienne Avery, and this is my portfolio showcasing my work in operations, project management, and program development. Below, you’ll find some of my key projects, certifications, and presentations.
+Hi there! I’m Adrienne Avery, and this is my portfolio showcasing my work in operations, project management, and program development. Below, you’ll find some of my key projects, certifications, and presentations.
 
 ## Explore My Work
 - [Certifications](./Certifications)
