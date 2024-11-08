@@ -26,7 +26,7 @@ Dive into my portfolio sections to see how I turn vision into reality:
 ## Let’s Connect
 I’m passionate about collaborating with organizations that value efficiency, strategy, and meaningful impact. Feel free to reach out!
 - **LinkedIn**: [linkedin.com/in/adrienneavery](https://linkedin.com/in/adrienneavery)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [aboutadrienne@gmail.com](mailto:aboutadrienne@gmail.com)
 
 ---
 
