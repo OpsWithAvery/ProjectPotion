@@ -15,7 +15,7 @@ Understanding my working style and preferences is crucial for enhancing collabor
   - Values stability and reliability.
   - Supportive and committed to team success.
 
-For a deeper dive into my assessment results, including my strengths and strategies for working effectively with others, you can view my profile here: [DiSC Profile](./DiSC%20Profile.pdf)
+For a deeper dive into my assessment results, including my strengths and strategies for working effectively with others, you can view my profile here: [DiSC Profile](Assessments)
 
 
 ## Explore My Work
