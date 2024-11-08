@@ -14,6 +14,7 @@ Hi, I’m Adrienne Avery! Welcome to my professional portfolio. Here, you’ll f
 - **Six Sigma White Belt** - [Link to certification file here]
 - **Lean Six Sigma White Belt** - [Link to certification file here]
 - **QPR Suicide Prevention Certification** - [Link to certification file here]
+- **Human Subjects Research - Social-Behavioral-Educational (SBE) Foundations** - [Link to certification file here]
 
 ### Projects and Plans
 - **Operations Optimization Report** - [Link to project file here]
@@ -25,4 +26,4 @@ Hi, I’m Adrienne Avery! Welcome to my professional portfolio. Here, you’ll f
 
 ## Contact Me
 - **LinkedIn**: [linkedin.com/in/adrienneavery](https://linkedin.com/in/adrienneavery)
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **Email**: [aboutadrienne@gmail.com](mailto:aboutadrienne@gmail.com)
