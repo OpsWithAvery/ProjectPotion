@@ -33,9 +33,11 @@ Before my involvement, Odyssey Atlanta lacked a cohesive, streamlined operationa
 - **Google Workspace**: For collaborative scheduling and document sharing.
 - **Google Calendars**: To streamline event and program schedules for both internal and family-facing communication.
 
----
 
 ## Outcome:
+  <img src="Photos/Photo 1.jpg.png" width="1100" height="550"/>
+
+
 - **Increased Student Retention**: Facilitated a more streamlined recruitment process, leading to **249 returning students pre-registered** and a more efficient enrollment process.
 - **Operational Efficiency**: Established systems that improved workflow, ensuring **30% better project completion times** and better budget tracking.
 - **Enhanced Engagement**: Created a more **engaged family and community network**, increasing participation in events such as the **Jolly Jamboree** and **Black Panther Film Screening**, boosting community involvement.
